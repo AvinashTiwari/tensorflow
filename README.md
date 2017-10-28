@@ -17,3 +17,7 @@ Sigmoid_demo :- getting sigmoid
 softmax_demo :- Recurrning learning to extend that we start predciting correctly
 <br>
 Avinash_Bit_smart_shallow_net_in_keras :- bit smart sallow network
+<br>
+Artifical_Neural_Network_ANN folder contains follwing sample
+1_ contains sample for model run and creating prediction
+2_ contains sample comparning with model run
