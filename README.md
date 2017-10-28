@@ -15,3 +15,5 @@ cross_entropy :- Cost function
 Sigmoid_demo :- getting sigmoid
 <br>
 softmax_demo :- Recurrning learning to extend that we start predciting correctly
+<br>
+Avinash_Bit_smart_shallow_net_in_keras :- bit smart sallow network
