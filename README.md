@@ -23,3 +23,5 @@ Artifical_Neural_Network_ANN folder contains follwing sample
 1_ contains sample for model run and creating prediction
 <br>
 2_ contains sample comparning with model run
+<br>
+3_ kfold sample which validate the data more proper predciting
