@@ -18,6 +18,8 @@ softmax_demo :- Recurrning learning to extend that we start predciting correctly
 <br>
 Avinash_Bit_smart_shallow_net_in_keras :- bit smart sallow network
 <br>
+Avinash_deep_net_in_keras :- deep nueural network using keras
+<br>
 Artifical_Neural_Network_ANN folder contains follwing sample
 <br>
 1_ contains sample for model run and creating prediction
