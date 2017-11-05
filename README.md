@@ -37,4 +37,7 @@ Technology used Tensor flow , Keras
 1_ Have sample which compare cat and dog image and prediction
 *note if use all data one epoc will will 10000 sec so in sample it i just 5
 on windows machince
-
+<br>
+2_ It predict image is dog or cat 
+*note if use all data one epoc will will 10000 sec so in sample it i just 5
+on windows machince
