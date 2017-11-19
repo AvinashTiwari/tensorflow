@@ -41,3 +41,8 @@ on windows machince
 2_ It predict image is dog or cat 
 *note if use all data one epoc will will 10000 sec so in sample it i just 5
 on windows machince
+<br>
+Som_self-organizing map
+This example of self organizing Map on Unsupervised learning
+<br>
+It looks into credit card sample which had been approved and find customer who had cheated in data and got Credit card approved.
